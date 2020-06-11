@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dltfilter>
+    <filter>
+        <type>0</type>
+        <name>New Filter</name>
+        <ecuid>ECU1</ecuid>
+        <applicationid>EXA1</applicationid>
+        <contextid>CON</contextid>
+        <headertext>2020/06/11 22:42:20.140834 1984.5821 0 ECU1 EXA1 CON 3769 log info verbose 1</headertext>
+        <payloadtext>Hello</payloadtext>
+        <enableregexp_Appid>0</enableregexp_Appid>
+        <enableregexp_Context>0</enableregexp_Context>
+        <enableregexp_Header>0</enableregexp_Header>
+        <enableregexp_Payload>0</enableregexp_Payload>
+        <ignoreCase_Header>0</ignoreCase_Header>
+        <ignoreCase_Payload>0</ignoreCase_Payload>
+        <enablefilter>1</enablefilter>
+        <enableecuid>1</enableecuid>
+        <enableapplicationid>1</enableapplicationid>
+        <enablecontextid>1</enablecontextid>
+        <enableheadertext>0</enableheadertext>
+        <enablepayloadtext>1</enablepayloadtext>
+        <enablectrlmsgs>0</enablectrlmsgs>
+        <enableLogLevelMin>0</enableLogLevelMin>
+        <enableLogLevelMax>0</enableLogLevelMax>
+        <enableMarker>1</enableMarker>
+        <filterColour>#00ff00</filterColour>
+        <logLevelMax>0</logLevelMax>
+        <logLevelMin>0</logLevelMin>
+    </filter>
+</dltfilter>

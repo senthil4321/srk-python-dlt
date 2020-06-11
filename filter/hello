@@ -1,0 +1,5 @@
+[FILTER1]
+LogAppName=EXA1
+EcuID=ECU1
+ContextName=CON
+LogLevel=DLT_LOG_INFO
